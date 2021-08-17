@@ -1,5 +1,8 @@
 # Generic scoop bucket
 
+see https://github.com/ZvonimirSun/scoop-iszy
+scoop bucket add arxBucket 'https://github.com/Arxoto/arxBucket.git'
+
 ❗❗🎉 Repository was converted into Template. See [blog](https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/?utm_campaign=1559837005&utm_medium=social&utm_source=twitter&utm_content=1559837005) for more information. 🎉❗❗
 
 In this repository you will find everything you need to know about creating custom bucket with appveyor support.
